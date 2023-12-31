@@ -1,0 +1,28 @@
+{
+  "articlesToRoom": [
+    {
+      "name": "Coca-cola",
+      "nombre": "22",
+      "facturaction": "Sur chambre",
+      "id": 13
+    },
+    {
+      "name": "Option 2",
+      "nombre": "77",
+      "facturaction": "Sur chambre",
+      "id": 14
+    },
+    {
+      "name": "Coca-cola",
+      "nombre": "55",
+      "facturaction": "Offert",
+      "id": 15
+    },
+    {
+      "name": "Coca-cola",
+      "nombre": "13",
+      "facturaction": "Offert",
+      "id": 16
+    }
+  ]
+}
